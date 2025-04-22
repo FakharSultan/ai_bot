@@ -6,8 +6,8 @@ diffusers==0.30.3
 torch==2.4.1
 torchaudio==2.4.1
 TTS==0.22.0
-numpy==1.26.4  # Updated
+numpy==1.26.4
 scipy==1.13.1
 librosa==0.10.2
-huggingface-hub==0.25.1  # For transformers
-tokenizers==0.20.0       # For transformers
+huggingface-hub==0.25.1
+tokenizers==0.20.0
