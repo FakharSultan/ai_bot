@@ -1,4 +1,13 @@
 streamlit==1.39.0
 requests==2.32.3
 beautifulsoup4==4.12.3
-numpy==1.26.4
+transformers==4.45.2
+diffusers==0.30.3
+torch==2.4.1
+torchaudio==2.4.1
+TTS==0.22.0
+numpy==1.26.4  # Updated
+scipy==1.13.1
+librosa==0.10.2
+huggingface-hub==0.25.1  # For transformers
+tokenizers==0.20.0       # For transformers
